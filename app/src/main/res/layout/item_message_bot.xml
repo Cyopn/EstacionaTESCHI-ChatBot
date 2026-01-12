@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginBottom="15dp">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/img_3"
+        android:scaleType="centerInside"
+        android:background="@drawable/rounded_input_dark"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/tv_bot_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:maxWidth="280dp"
+        android:background="@drawable/bubble_assistant"
+        android:padding="12dp"
+        android:text="Respuesta de la API"
+        android:textColor="@color/black" />
+</LinearLayout>

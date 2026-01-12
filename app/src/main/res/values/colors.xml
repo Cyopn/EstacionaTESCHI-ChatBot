@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue">#0D1B2A</color>
+    <color name="medium_blue">#1B263B</color>
+    <color name="light_blue">#415A77</color>
+    <color name="accent_blue">#00B4D8</color>
+    <color name="yellow_btn">#FFC300</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_input">#E0E0E0</color>
+    <color name="dark_gray_input">#2C3E50</color>
+    
+    <!-- Color para los iconos de la barra de navegación -->
+    <color name="nav_item_color">#00B4D8</color>
+</resources>
